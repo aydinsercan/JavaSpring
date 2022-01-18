@@ -1,1 +1,1 @@
-# first-homework n11 TalentHub Java Bootcamp
+# first-homework TalentHub Java Bootcamp
